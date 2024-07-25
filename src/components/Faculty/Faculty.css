@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.principle{
+   text-align: center;
+}
+.teachers{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    padding: 10px 0;
+    text-align: center;
+}

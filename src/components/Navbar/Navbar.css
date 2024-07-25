@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    justify-content: space-between;
+    margin: 0 50px;
+    padding: 20px;
+}
+.container{
+    text-align: center;
+}
+img{
+    padding: 10px 0;
+}
+.nav{
+    background-color: green;
+}

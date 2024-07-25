@@ -1,0 +1,14 @@
+.containerr{
+  display: flex;
+  margin: 50px 0;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 40px 20vw;
+}
+address{
+    text-align: center;
+    margin: 10px 0;
+}
